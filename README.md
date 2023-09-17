@@ -12,6 +12,6 @@ Do I have regrets?
 Absolutely.
 
 ### Files
-- **app.py**: this is the full version of the program. It will be running the medium size DialoGPT model, which can be processing and RAM intensive
-- **app_sm.py**: this is the distilled version, running the small size DialoGPT model, which improves performance at the cost of generative ability.
-- **app_no_speech.py and app_sm_no_speech.py**: these don't use the speech recognition and the text to speech input and output, instead opting for keyboard input and purely visual output
+- ***app.py***: this is the full version of the program. It will be running the medium size DialoGPT model, which can be processing and RAM intensive
+- ***app_sm.py***: this is the distilled version, running the small size DialoGPT model, which improves performance at the cost of generative ability.
+- ***app_no_speech.py and app_sm_no_speech.py***: these don't use the speech recognition and the text to speech input and output, instead opting for keyboard input and purely visual output
