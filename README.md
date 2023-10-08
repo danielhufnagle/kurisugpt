@@ -1,6 +1,6 @@
-# Kurisu GPT
+# A mistake
 
-## Peak degeneracy material right here
+As of right now this only works on a mac. I'll add the windows files whenever I feel like it, which might be a while
 
 ### How this shit works
 The app uses a DialoGPT model (currently without any finetuning (which is subject to change)) and a t5-base=finetuned-emotion model to run both text generation and sentiment analysis. User input is taken through speech recognition and output will be returned through text to speech, unless you are using the no speech versions in which case the keyboard will be the input source and the output will be in a text box. Based on the sentiment of the output, the sprite of Makise Kurisu will change accordingly.
